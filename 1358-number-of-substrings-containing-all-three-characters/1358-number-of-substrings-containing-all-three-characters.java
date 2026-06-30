@@ -1,18 +1,20 @@
 class Solution {
     public int numberOfSubstrings(String str) {
-        int[] lastSeen = {-1, -1, -1}; // a, b, c
+        int n = str.length();
+
+        int[] freq = new int[3];   // frequency of a, b, c
+
+        int i = 0;
         int count = 0;
 
-        for (int i = 0; i < str.length(); i++) {
+        for (int j = 0; j < n; j++) {
+            freq[str.charAt(j) - 'a']++;
 
-            lastSeen[str.charAt(i) - 'a'] = i;
+            while (freq[0] > 0 && freq[1] > 0 && freq[2] > 0) {
+                count += (n - j);
 
-            if (lastSeen[0] != -1 &&
-                    lastSeen[1] != -1 &&
-                    lastSeen[2] != -1) {
-
-                count += 1 + Math.min(lastSeen[0],
-                        Math.min(lastSeen[1], lastSeen[2]));
+                freq[str.charAt(i) - 'a']--;
+                i++;
             }
         }
 

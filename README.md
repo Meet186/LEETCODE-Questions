@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Meet186/LEETCODE-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Meet186/LEETCODE-Questions/tree/master/0040-combination-sum-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Meet186/LEETCODE-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Meet186/LEETCODE-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## String
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Meet186/LEETCODE-Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Meet186/LEETCODE-Questions/tree/master/0037-sudoku-solver) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Meet186/LEETCODE-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -35,4 +37,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Meet186/LEETCODE-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Binary Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Meet186/LEETCODE-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Meet186/LEETCODE-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Meet186/LEETCODE-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Meet186/LEETCODE-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->

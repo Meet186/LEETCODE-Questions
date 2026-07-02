@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Meet186/LEETCODE-Questions/tree/master/0040-combination-sum-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Meet186/LEETCODE-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Meet186/LEETCODE-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Meet186/LEETCODE-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## String
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Meet186/LEETCODE-Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Meet186/LEETCODE-Questions/tree/master/0037-sudoku-solver) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Meet186/LEETCODE-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Meet186/LEETCODE-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Meet186/LEETCODE-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Meet186/LEETCODE-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -53,4 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Meet186/LEETCODE-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Meet186/LEETCODE-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Meet186/LEETCODE-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Meet186/LEETCODE-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->

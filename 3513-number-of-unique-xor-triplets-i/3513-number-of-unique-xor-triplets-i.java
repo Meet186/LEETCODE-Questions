@@ -4,11 +4,10 @@ class Solution {
 
         if (n <= 2) return n;
 
-        int mask = 0;
-        for (int num : nums) {
-            mask |= num;
-        }
-
-        return mask + 1;
+       int ans = 1;
+       while(ans <= n){
+            ans *= 2;
+       }
+       return ans;
     }
 }

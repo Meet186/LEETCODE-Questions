@@ -1,16 +1,11 @@
 class Solution {
-
     public int minimumPushes(String word) {
-        return solve(0, word.length());
-    }
+        int ans = 0;
 
-    private int solve(int idx, int n) {
-        if (idx == n) {
-            return 0;
+        for (int i = 0; i < word.length(); i++) {
+            ans += (i / 8) + 1;
         }
 
-        int pushesForCurrent = (idx / 8) + 1;
-
-        return pushesForCurrent + solve(idx + 1, n);
+        return ans;
     }
 }

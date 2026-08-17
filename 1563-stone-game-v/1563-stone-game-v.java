@@ -3,25 +3,22 @@ class Solution {
         int n = stoneValue.length;
 
         int[][] dp = new int[n][n];
+        int[] prefix = new int[n+1];
 
-        for(int i=0;i<n;i++) dp[i][i] = 0;
+        for(int i=0;i<n;i++){
+            prefix[i+1] = prefix[i] + stoneValue[i];
+            dp[i][i] = 0;
+        }
 
         for(int left=n-1;left>=0;left--){
             for(int right=0;right<n;right++){
-                int totalSum = 0;
-
-                for(int i=left;i<=right;i++){
-                    totalSum += stoneValue[i];
-                }
-
-                int leftSum = 0;
-                int rightSum = 0;
+                int totalSum = prefix[right+1]-prefix[left];
 
                 int maxScore = 0;
 
                 for(int i=left;i<=right-1;i++){
-                    leftSum += stoneValue[i];
-                    rightSum = totalSum-leftSum;
+                    int leftSum = prefix[i+1]-prefix[left];
+                    int rightSum = totalSum-leftSum;
                     
                     if(leftSum == rightSum){
                         int l = leftSum + dp[i+1][right];

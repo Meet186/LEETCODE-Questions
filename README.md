@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Meet186/LEETCODE-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Meet186/LEETCODE-Questions/tree/master/0040-combination-sum-ii) |
 | [0486-predict-the-winner](https://github.com/Meet186/LEETCODE-Questions/tree/master/0486-predict-the-winner) |
+| [0835-image-overlap](https://github.com/Meet186/LEETCODE-Questions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Meet186/LEETCODE-Questions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Meet186/LEETCODE-Questions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Meet186/LEETCODE-Questions/tree/master/1260-shift-2d-grid) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Meet186/LEETCODE-Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Meet186/LEETCODE-Questions/tree/master/0037-sudoku-solver) |
+| [0835-image-overlap](https://github.com/Meet186/LEETCODE-Questions/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Meet186/LEETCODE-Questions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Meet186/LEETCODE-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Meet186/LEETCODE-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
